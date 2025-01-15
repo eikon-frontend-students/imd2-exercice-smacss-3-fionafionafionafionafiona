@@ -1,0 +1,20 @@
+.animal-card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #979797;
+  margin: 30px 0;
+}
+
+.animal-information {
+  padding: 20px;
+  background: #fff;
+}
+
+.animal-name {
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.animal-location {
+  font-weight: 500;
+}
